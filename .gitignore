@@ -38,5 +38,5 @@ objects
 ircserv
 .idea
 bot/bot
-Day*.iml
+*.iml
 *.class
